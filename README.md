@@ -49,12 +49,6 @@ Support for additional firmware versions is planned for future updates.
 > ⚠️ **Note:** Firmware support is version-specific. Compatibility should not be assumed for firmware versions that are not explicitly listed above.
 
 
-### 📚 JSON Libraries
-
-Free PKG Builder can work with game libraries stored in **JSON**, allowing game information to be loaded and used by the application instead of requiring everything to be entered manually.
-
-This makes it possible to maintain and reuse organized game libraries across different sessions.
-
 ## ⚠️ Current Limitations
 
 Free PKG Builder is still under active development.
@@ -74,7 +68,7 @@ Future updates are planned to expand Free PKG Builder with:
 * Support for more PS5 firmware versions like the 4.xx- 5.xx- 6.xx- 7.xx(includes 7.61) 8.xx- 9.xx(includes 9.60)- 10.00
 * Support for additional game/source formats
 * Improved game-library management
-* More JSON library functionality
+* JSON library functionality includes Pippo Library
 * Improved conversion performance
 * Additional validation and error handling
 * General stability and usability improvements
@@ -97,7 +91,7 @@ The basic workflow is:
 | PS5                          | ✅ Supported         |
 | Folder Dump                  | ✅ Supported         |
 | exFAT                        | ✅ Supported         |
-| JSON Game Libraries          | ✅ Supported         |
+| JSON Game Libraries          | 🚧 Planned           |
 | Other Source Formats         | ❌ Not yet supported |
 | Firmware 10.01–11.60         | ✅ Current target    |
 | Additional Firmware Versions | 🚧 Planned          |
