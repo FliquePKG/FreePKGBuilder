@@ -96,11 +96,6 @@ The basic workflow is:
 | Firmware 10.01–11.60         | ✅ Current target    |
 | Additional Firmware Versions | 🚧 Planned          |
 
-## 📖 Disclaimer
-
-Free PKG Builder is provided for **research, development, and homebrew purposes**.
-
-Only use the application with games and content that you legally own or have permission to use. The project does not provide copyrighted games, unauthorized game dumps, or pirated content.
 
 ## 🔮 More to Come
 
