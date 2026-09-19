@@ -33,17 +33,21 @@ Currently supported:
 
 ### 🧩 Firmware Support
 
-Current firmware compatibility:
+Free PKG Builder currently supports the following PS5 firmware versions:
 
 * **10.01**
-* **10.50**
+* **10.20**
+* **10.40**
+* **10.60**
 * **11.00**
-* **11.02**
+* **11.20**
 * **11.40**
-* **11.50**
 * **11.60**
 
-Support for additional firmware versions is planned for future releases.
+Support for additional firmware versions is planned for future updates.
+
+> ⚠️ **Note:** Firmware support is version-specific. Compatibility should not be assumed for firmware versions that are not explicitly listed above.
+
 
 ### 📚 JSON Libraries
 
@@ -67,7 +71,7 @@ At the moment:
 
 Future updates are planned to expand Free PKG Builder with:
 
-* Support for more PS5 firmware versions
+* Support for more PS5 firmware versions like the 4.xx- 5.xx- 6.xx- 7.xx(includes 7.61) 8.xx- 9.xx(includes 9.60)- 10.00
 * Support for additional game/source formats
 * Improved game-library management
 * More JSON library functionality
