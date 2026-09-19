@@ -1,1 +1,115 @@
-# FreePKGBuilder
+# Free PKG Builder
+
+**Free PKG Builder** is a PlayStation 5 homebrew utility designed to create **FPKG (Fake Package) files directly on your PS5**.
+
+The application allows you to select a compatible game from your own local library and convert it into a PKG package, providing a straightforward way to build packages directly on the console without requiring an external computer for the conversion process.
+
+> ⚠️ **Important:** Free PKG Builder currently supports games provided in **Folder Dump** or **exFAT** formats only. Other formats are not supported at this time.
+
+## Key Features
+
+### 🎮 Game Library
+
+* Select games directly from your own PS5 library
+* Browse and identify compatible game files
+* Support for loading game libraries from **JSON**
+* Designed to work directly on the PS5
+
+### 📦 FPKG Creation
+
+* Build **Fake PKG (FPKG)** files directly on the console
+* Convert supported game dumps into PKG format
+* No external PC required for the conversion process
+* Designed with a simple workflow focused on creating packages directly from compatible game sources
+
+### 💾 Supported Input Formats
+
+Currently supported:
+
+* **Folder Dump**
+* **exFAT**
+
+> Other game formats are **not currently compatible**. Additional formats may be supported in future updates.
+
+### 🧩 Firmware Support
+
+Current firmware compatibility:
+
+* **10.01**
+* **10.50**
+* **11.00**
+* **11.02**
+* **11.40**
+* **11.50**
+* **11.60**
+
+Support for additional firmware versions is planned for future releases.
+
+### 📚 JSON Libraries
+
+Free PKG Builder can work with game libraries stored in **JSON**, allowing game information to be loaded and used by the application instead of requiring everything to be entered manually.
+
+This makes it possible to maintain and reuse organized game libraries across different sessions.
+
+## ⚠️ Current Limitations
+
+Free PKG Builder is still under active development.
+
+At the moment:
+
+* Only **Folder Dump** and **exFAT** sources are supported
+* Other storage/package formats are not yet compatible
+* Firmware support is currently limited to the supported versions listed above
+* Some features may require future updates
+* Compatibility can vary depending on the game and source structure
+
+## 🚀 Roadmap
+
+Future updates are planned to expand Free PKG Builder with:
+
+* Support for more PS5 firmware versions
+* Support for additional game/source formats
+* Improved game-library management
+* More JSON library functionality
+* Improved conversion performance
+* Additional validation and error handling
+* General stability and usability improvements
+
+## 🛠️ How It Works
+
+The basic workflow is:
+
+1. Prepare a compatible game in **Folder Dump** or **exFAT** format.
+2. Open **Free PKG Builder** on your PS5.
+3. Select the game from your available library.
+4. Load or select the corresponding game information.
+5. Start the conversion process.
+6. Free PKG Builder generates the resulting **FPKG** package.
+
+## 📋 Compatibility
+
+| Feature                      | Status              |
+| ---------------------------- | ------------------- |
+| PS5                          | ✅ Supported         |
+| Folder Dump                  | ✅ Supported         |
+| exFAT                        | ✅ Supported         |
+| JSON Game Libraries          | ✅ Supported         |
+| Other Source Formats         | ❌ Not yet supported |
+| Firmware 10.01–11.60         | ✅ Current target    |
+| Additional Firmware Versions | 🚧 Planned          |
+
+## 📖 Disclaimer
+
+Free PKG Builder is provided for **research, development, and homebrew purposes**.
+
+Only use the application with games and content that you legally own or have permission to use. The project does not provide copyrighted games, unauthorized game dumps, or pirated content.
+
+## 🔮 More to Come
+
+Free PKG Builder is actively evolving. More firmware versions, input formats, library features, and improvements are planned for future releases.
+
+Stay tuned for upcoming updates.
+
+---
+
+**Free PKG Builder — Build your packages directly on your PS5.**
